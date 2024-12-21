@@ -1,9 +1,15 @@
 # Ignore all files
 *
 
+# Include all directories
+!*/
+
 # Exclude .gitignore itself
 !.gitignore
 
-# Exclude .rs files
+# Exclude all .rs files
 !**/*.rs
+
+# Exclude all .toml files
+!**/*.toml
 
