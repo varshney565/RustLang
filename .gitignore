@@ -1,0 +1,5 @@
+# Exclude .gitignore itself
+!.gitignore
+
+# Exclude .rs files
+!*.rs
