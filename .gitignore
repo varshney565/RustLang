@@ -1,3 +1,6 @@
+# Ignore all files
+*
+
 # Exclude .gitignore itself
 !.gitignore
 
